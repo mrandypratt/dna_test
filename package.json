@@ -1,0 +1,14 @@
+{
+  "name": "point_mutations",
+  "version": "1.0.0",
+  "description": "Use Tests to Drive Hamming Distance method",
+  "main": "dna.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andy Pratt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
